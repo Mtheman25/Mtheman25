@@ -16,7 +16,12 @@ i enjoy coding html, sometimes python, js, rarely css, and messing around with r
 
 
 
-![Mtheman25 github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mtheman25&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mtheman25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Mtheman25 github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mtheman25&show_icons=true&hide_border=true) 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mtheman25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtheman25&theme=dark" alt="3kh0" /></p><br>
+
 
 </br>
 
