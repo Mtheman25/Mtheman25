@@ -4,7 +4,7 @@ discord: Mtheman#0618
 
 
 
-i enjoy coding html, sometimes python, js, and rarely css, and messing around with random languages i dont know
+i enjoy coding html, sometimes python, js, rarely css, and messing around with random languages i dont know
 </br>
 [![Languages I Use](https://skillicons.dev/icons?i=html,py,js,css)](https://skillicons.dev)
 
