@@ -9,7 +9,8 @@ i enjoy coding html, sometimes python, js, rarely css, and messing around with r
 [![Languages I Use](https://skillicons.dev/icons?i=html,py,js,css)](https://skillicons.dev)
 
 </br>
-https://lanyard.cnrad.dev/api/824344183899684925?borderRadius=5px&idleMessage=making%20proxies&bg=a&animated=true
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/824344183899684925?borderRadius=5px&idleMessage=making%20proxies&bg=a&animated=true)](https://discord.com/users/824344183899684925)
 
 [![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Mtheman25&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
