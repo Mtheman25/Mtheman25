@@ -2,15 +2,13 @@ Hi! Welcome to my profile. I'm Mtheman (Mtheman25 on github because Mtheman was 
 
 discord: Mtheman#0618
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/824344183899684925?borderRadius=5px&idleMessage=making%20proxies&bg=a&animated=true)](https://discord.com/users/824344183899684925)
 
 i enjoy coding html, sometimes python, js, rarely css, and messing around with random languages i dont know
 </br>
 [![Languages I Use](https://skillicons.dev/icons?i=html,py,js,css)](https://skillicons.dev)
 
 </br>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/824344183899684925?borderRadius=5px&idleMessage=making%20proxies&bg=a&animated=true)](https://discord.com/users/824344183899684925)
 
 [![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Mtheman25&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
