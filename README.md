@@ -1,8 +1,8 @@
 Hi! Welcome to my profile. I'm Mtheman (Mtheman25 on github because Mtheman was not available) 
 
-discord: Mtheman#0618
+discord: Mtheman#0001
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/824344183899684925?borderRadius=5px&idleMessage=making%20proxies&bg=a&animated=true)](https://discord.com/users/824344183899684925)
+[![Discord Presence](https://lanyard.cnrad.dev/api/824344183899684925)]
 
 i enjoy coding html, sometimes python, js, rarely css, and messing around with random languages i dont know
 </br>
