@@ -1,6 +1,6 @@
 Hi! Welcome to my profile. I'm Mtheman (Mtheman25 on github because Mtheman was not available) 
 
-click below to go to my discord profile! (you can't see my nitro badge due to discord limitations)
+click below to go to my discord profile!
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/824344183899684925?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/824344183899684925)
 
