@@ -1,8 +1,8 @@
 Hi! Welcome to my profile. I'm Mtheman (Mtheman25 on github because Mtheman was not available) 
 
-discord: Mtheman#0001
+click below to go to my discord profile! (you can't see my nitro badge due to discord limitations)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/824344183899684925)]
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/824344183899684925?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/824344183899684925)
 
 i enjoy coding html, sometimes python, js, rarely css, and messing around with random languages i dont know
 </br>
